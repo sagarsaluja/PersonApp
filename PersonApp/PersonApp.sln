@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonApp", "PersonApp.csproj", "{64908CC4-C061-411C-BC0E-C7AC54B46831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonTests", "..\PersonTests\PersonTests.csproj", "{DCC943F0-6EAD-4283-BBC8-5C2EECCA055B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64908CC4-C061-411C-BC0E-C7AC54B46831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64908CC4-C061-411C-BC0E-C7AC54B46831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64908CC4-C061-411C-BC0E-C7AC54B46831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64908CC4-C061-411C-BC0E-C7AC54B46831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC943F0-6EAD-4283-BBC8-5C2EECCA055B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC943F0-6EAD-4283-BBC8-5C2EECCA055B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC943F0-6EAD-4283-BBC8-5C2EECCA055B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC943F0-6EAD-4283-BBC8-5C2EECCA055B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9EEB4CF-3E06-489D-90B1-66D636563D1D}
+	EndGlobalSection
+EndGlobal

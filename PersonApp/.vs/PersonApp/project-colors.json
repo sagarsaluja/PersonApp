@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64908cc4-c061-411c-bc0e-c7ac54b46831": {
+      "ProjectGuid": "64908cc4-c061-411c-bc0e-c7ac54b46831",
+      "DisplayName": "PersonApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dcc943f0-6ead-4283-bbc8-5c2eecca055b": {
+      "ProjectGuid": "dcc943f0-6ead-4283-bbc8-5c2eecca055b",
+      "DisplayName": "PersonTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
